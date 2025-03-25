@@ -71,7 +71,8 @@ Enhanced prediction accuracy and recall for loan conversion using balanced datas
 ---
 
 ## 📁 Repository Structure
-
+<pre>
+```
 .
 ├── code/
 │   └── Project_2_(Ishant_Kundra).ipynb           # Main notebook for both parts
@@ -88,6 +89,8 @@ Enhanced prediction accuracy and recall for loan conversion using balanced datas
 │
 ├── .gitignore
 └── README.md                                     # This file
+```
+<pre>
 
 ---
 
