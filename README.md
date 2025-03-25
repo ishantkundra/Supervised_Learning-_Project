@@ -61,12 +61,18 @@ Enhanced prediction accuracy and recall for loan conversion using balanced datas
 
 ---
 
-## ⚙️ Tools & Libraries Used
+## ⚙️ Tools,skill & Libraries Used
 
 - Python (Jupyter Notebook)
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
+- Logistic Regression
+- Naive Bayes
+- KNN
+- Classification
+- SVM
+- Linear regression
 
 ---
 
